@@ -1,6 +1,8 @@
 # Loading-Screen-Fivem
 Loading Screen Fivem
 
+https://mega.nz/folder/j5gG0DbT#itt3DrIUemyBVxD6-4R8cw
+
 [README.txt](https://github.com/user-attachments/files/21803851/README.txt)
 --------------------------------------------------------------------------------
 Guide d'installation : 
